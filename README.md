@@ -1,6 +1,4 @@
-<center>
 # React-js
-</center>
 # Empezando a usar nuevamente react
 <p> 
 ## --Se debe realizar la instalacion de npm, luego en la terminal ejecutamos el siguiente comando 
